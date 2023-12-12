@@ -1,14 +1,12 @@
-<p align="center">
-    <img src="https://github.com/filamentphp/filament/assets/41773797/8d5a0b12-4643-4b5c-964a-56f0db91b90a" alt="Banner" style="width: 100%; max-width: 800px;" />
+## SAMPLE MANAGEMENT
+
+ <p align="center">
+   <a href="https://filamentadmin.com/docs/3.x/admin/installation">
+        <img alt="FILAMENT 3.x" src="https://img.shields.io/badge/FILAMENT-3.x-EBB304?style=for-the-badge">
+    </a>
+    <a href="https://laravel.com"><img alt="Laravel v10.x" src="https://img.shields.io/badge/Laravel-v10.x-FF2D20?style=for-the-badge&logo=laravel"></a>
+    <a href="https://livewire.laravel.com"><img alt="Livewire v3.x" src="https://img.shields.io/badge/Livewire-v3.x-FB70A9?style=for-the-badge"></a>
+    <a href="https://php.net"><img alt="PHP 8.1" src="https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php"></a>
 </p>
 
-
-## SAMPLE MANAGEMENT
-Built with Filament
-
-### Technologies used
-1. [TailwindCSS](https://tailwindcss.com/)
-2. [Alpine.js](https://alpinejs.dev/)
-3. [Laravel](https://laravel.com/)
-4. [Livewire](https://laravel-livewire.com/)
 
