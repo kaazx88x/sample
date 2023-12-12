@@ -1,4 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center">
+    <a href="https://trendshift.io/repositories/238" target="_blank"><img src="https://trendshift.io/api/badge/repositories/238" alt="filamentphp%2Ffilament | Trendshift" style="width: 250px; height: 55px;" /></a>
+</p>
 
 
 ## SAMPLE MANAGEMENT
